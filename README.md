@@ -1,3 +1,4 @@
+<h1 align="center">Kethaka Wanasinghe</h1>
 <h3 align="center">Software Developer | IT Undergraduate | Driven by Technology and Creativity</h3>
 
 - 🔭 I’m currently working on [Next-Blog-App](https://github.com/KethakaWanasinghe/next-blog-app)
