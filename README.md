@@ -1,9 +1,5 @@
 <h3 align="center">Software Developer | IT Undergraduate | Driven by Technology and Creativity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kethakawanasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="kethakawanasinghe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kethakawanasinghe" alt="kethakawanasinghe" /></a> </p>
-
 - 🔭 I’m currently working on [Next-Blog-App](https://github.com/KethakaWanasinghe/next-blog-app)
 
 - 🌱 I’m currently learning **React.js, Next.js, Cyber Sec and exploring Cloud Computing with AWS**
