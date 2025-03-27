@@ -1,11 +1,11 @@
 <h1 align="center">Kethaka Wanasinghe</h1>
 <h3 align="center">Software Developer | IT Undergraduate | Driven by Technology and Creativity</h3>
 
-- 🔭 I’m currently working on [Blog Space](https://github.com/KethakaWanasinghe/Blog_Space.git)
+- 🔭 Latest Project - [Blog Space](https://github.com/KethakaWanasinghe/Blog_Space.git)
 
-- 🌱 I’m currently learning **React.js, Next.js, Cyber Sec and exploring Cloud Computing with AWS**
+- 🌱 Exploring **full-stack development, cybersecurity, and cloud technologies**
 
-- 📫 How to reach me **kethakawanasinghe@gmail.com**
+- 📫 Reach me on **kethakawanasinghe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
